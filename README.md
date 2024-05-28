@@ -27,5 +27,5 @@
 ## Linkek:
 -	[Omnidirekcionális robot kit](https://www.hackster.io/newmanjosh01/arduino-omnidirectional-car-bbb57a)
 -	[Mecanum kerekek (vigvari.hu)](https://www.vigvari.hu/mecanum-kerekkeszletek-tt-motorhoz_735382)
--	[Mecanum kerekek (hestore.hu](https://www.hestore.hu/prod_10044778.html)
+-	[Mecanum kerekek (hestore.hu)](https://www.hestore.hu/prod_10044778.html)
 -	[Mecanum coupling (hestore.hu)](https://www.hestore.hu/prod_10044779.html)
